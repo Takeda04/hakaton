@@ -1,0 +1,24 @@
+.trackcard__sub {
+  color: #fff;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.trackcard__title {
+  color: #fff;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  letter-spacing: -1px;
+}
+
+.trackcard__description {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
