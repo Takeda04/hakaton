@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles/hero.css';
+import './styles/style.css';
 import moon from '../../assets/moon.png';
 import heroTitleSpanImg from '../../assets/hero-title-span.png';
 import { Button } from '@/components/ui/button';
@@ -21,7 +21,7 @@ const HeroSection = () => {
             бизнеса
             <span>
               <svg xmlns='http://www.w3.org/2000/svg' width='33' height='31' viewBox='0 0 33 31' fill='none'>
-                <g clip-path='url(#clip0_2366_1227)'>
+                <g clipPath='url(#clip0_2366_1227)'>
                   <path
                     d='M19.7085 29.8135L12.9935 29.8135L1.70248 15.5045L12.9935 1.19548L19.7085 1.19548L14.4625 7.82748C12.9515 9.75648 11.5235 11.5255 10.1385 13.1335L32.2585 13.1335V17.9165L10.1805 17.9165C11.5655 19.5635 12.9935 21.2925 14.4625 23.1815L19.7085 29.8135Z'
                     fill='#F7F7F7'
@@ -37,7 +37,7 @@ const HeroSection = () => {
             и побеждай на
             <span>
               <svg xmlns='http://www.w3.org/2000/svg' width='35' height='34' viewBox='0 0 35 34' fill='none'>
-                <g clip-path='url(#clip0_2366_1232)'>
+                <g clipPath='url(#clip0_2366_1232)'>
                   <path
                     d='M17.5082 22.9529L9.99016 33.1659L5.28116 29.3779L12.8822 18.9989L0.738159 15.0459L2.72016 9.36186L14.4512 13.1509V0.630859H20.5652V13.1509L32.2952 9.36186L34.2782 15.0459L22.2172 18.9989L29.8172 29.3779L25.0262 33.1659L17.5082 22.9529Z'
                     fill='#FF4800'
